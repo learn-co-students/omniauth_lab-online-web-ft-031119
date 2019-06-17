@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/node
 
+omniauth_readme/.env
+.env
+
 .DS_Store
 
 ### Node ###
